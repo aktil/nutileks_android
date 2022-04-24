@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textview1">Enter</string>
+    <string name="ButtonCE">CE</string>
+
+    <string name="Button7">7</string>
+    <string name="Button8">8</string>
+    <string name="Button9">9</string>
+    <string name="ButtonDivision">/</string>
+
+    <string name="Button4">4</string>
+    <string name="Button5">5</string>
+    <string name="Button6">6</string>
+    <string name="ButtonMultiplication">*</string>
+
+    <string name="Button2">2</string>
+    <string name="Button1">1</string>
+    <string name="Button3">3</string>
+    <string name="ButtonSubtraction">-</string>
+
+    <string name="ButtonResult">=</string>
+    <string name="Button0">0</string>
+    <string name="ButtonPut">.</string>
+    <string name="ButtonAddition">+</string>
+
+</resources>
